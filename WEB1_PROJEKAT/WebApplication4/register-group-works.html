@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+
+<!-- Navigation -->
+    <header>
+        <div id="navbar"></div>
+    </header>
+
+<!-- Register -->
+    <form id="register-group-works">
+        <table>
+            <tr>
+                <th colspan="2">
+                    <h1>
+                        Create Group Works
+                    </h1>
+                </th>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="name">Name</label>
+                </td>
+                <td>
+                    <input type="text" id="name" name="name" required/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="maxVisitors">Max Visitors</label>
+                </td>
+                <td>
+                    <input type="text" id="maxVisitors" name="maxVisitors" required/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="time">Time</label>
+                </td>
+                <td>
+                    <input type="text" id="time" name="time" required/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label>Work Type</label>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="legs">Legs</label>
+                </td>
+                <td>
+                    <input type="radio" id="legs" name="workType" value="legs" checked/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="yoga">Yoga</label>
+                </td>
+                <td>
+                    <input type="radio" id="yoga" name="workType" value="yoga" />
+                </td>
+            </tr>
+
+            <br>
+
+            <tr>
+                <td>
+                    <label for="planTime">Plan Time</label>
+                </td>
+                <td>
+                    <input type="date" id="planTime" name="planTime" required />
+                </td>
+            </tr>
+
+            <tr>
+                <th colspan="2">
+                    <button type="submit">Create</button>
+                </th>
+            </tr>
+        </table>
+    </form>
+
+<script src="Scripts/jquery-3.6.0.min.js"></script>
+<script src="Scripts/script.js"></script>
+</body>
+</html>

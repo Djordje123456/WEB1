@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+
+<!-- Navigation -->
+    <header>
+        <div id="navbar"></div>
+    </header>
+
+<br>
+<br>
+
+<!-- Search -->
+    <form id="search-fitness-center">
+        <table>
+            <tr>
+                <th colspan="2">
+                    <h1>Search</h1>
+                </th>
+            </tr>
+            
+            <tr>
+                <td>
+                    <label for="name">Name</label>
+                </td>
+                <td>
+                    <input type="text" id="name" name="name"/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="address">Address</label>
+                </td>
+                <td>
+                    <input type="text" id="address" name="address"/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="minYear">Minimum Year</label>
+                </td>
+                <td>
+                    <input type="text" id="minYear" name="minYear"/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="maxYear">Maximum Year</label>
+                </td>
+                <td>
+                    <input type="text" id="maxYear" name="maxYear"/>
+                </td>
+            </tr>
+
+            <tr>
+                <th colspan="2">
+                    <button type="submit">Search</button>
+                </th>
+            </tr>
+        </table>
+    </form>
+
+<br>
+<br>
+
+<!-- Sort -->
+    <table>
+        <tr>
+            <th colspan="3">
+                <h1>Sort</h1>
+            </th>
+        </tr>
+
+        <tr>
+            <th>
+                <label>Name</label>
+            </th>
+            <td>
+                <input type="button" id="name-ascending" value="Ascending" onclick="sortFitnessCenters('Name', 0)"/>
+            </td>
+            <td>
+                <input type="button" id="name-descending" value="Descending" onclick="sortFitnessCenters('Name', 1)"/>
+            </td>
+        </tr>
+
+
+        <tr>
+            <th>
+                <label>Address</label>
+            </th>
+            <td>
+                <input type="button" id="address-ascending" value="Ascending" onclick="sortFitnessCenters('Address', 0)"/>
+            </td>
+            <td>
+                <input type="button" id="address-descending" value="Descending" onclick="sortFitnessCenters('Address', 1)"/>
+            </td>
+        </tr>
+
+
+        <tr>
+            <th>
+                <label>Year</label>
+            </th>
+            <td>
+                <input type="button" id="year-ascending" value="Ascending" onclick="sortFitnessCenters('Year', 0)"/>
+            </td>
+            <td>
+                <input type="button" id="year-descending" value="Descending" onclick="sortFitnessCenters('Year', 1)"/>
+            </td>
+        </tr>
+    </table>
+
+<br>
+<br>
+
+<!-- Fitness table -->
+    <table class="fitness-centers" border="1">
+        <thead>
+            <tr>
+                <th colspan="4">
+                    <h1>
+                        Fitness Centers
+                    </h1>
+                </th>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Year Created</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+<script src="Scripts/jquery-3.6.0.min.js"></script>
+<script src="Scripts/script.js"></script>
+</body>
+</html>

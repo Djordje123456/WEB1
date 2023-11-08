@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+
+<!-- Navigation -->
+    <header>
+        <div id="navbar"></div>
+    </header>
+
+<br>
+<br>
+
+<!-- Search -->
+    <form id="search-group-works">
+        <table>
+            <tr>
+                <th colspan="2">
+                    <h1>Search</h1>
+                </th>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="name">Name</label>
+                </td>
+                <td>
+                    <input type="text" id="name" name="name"/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="fitnessCenterName">Fitness Center Name</label>
+                </td>
+                <td>
+                    <input type="text" id="fitnessCenterName" name="fitnessCenterName"/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label>Type</label>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="any">Any</label>
+                </td>
+                <td>
+                    <input type="radio" id="any" name="type" value=0 checked/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="legs">Legs</label>
+                </td>
+                <td>
+                    <input type="radio" id="legs" name="type" value="legs" />
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="yoga">Yoga</label>
+                </td>
+                <td>
+                    <input type="radio" id="yoga" name="type" value="yoga" />
+                </td>
+            </tr>
+
+            <tr>
+                <th colspan="2">
+                    <button type="submit">Search</button>
+                </th>
+            </tr>
+        </table>
+    </form>
+
+<br>
+<br>
+
+<!-- Sort -->
+    <table>
+        <tr>
+            <th colspan="3">
+                <h1>Sort</h1>
+            </th>
+        </tr>
+
+        <tr>
+            <th>
+                <label>Type</label>
+            </th>
+            <td>
+                <input type="button" id="type-ascending" value="Ascending" onclick="sortGroupWorks('type', 0)"/>
+            </td>
+            <td>
+                <input type="button" id="type-descending" value="Descending" onclick="sortGroupWorks('type', 1)"/>
+            </td>
+        </tr>
+
+
+        <tr>
+            <th>
+                <label>Date</label>
+            </th>
+            <td>
+                <input type="button" id="date-ascending" value="Ascending" onclick="sortGroupWorks('date', 0)"/>
+            </td>
+            <td>
+                <input type="button" id="date-descending" value="Descending" onclick="sortGroupWorks('date', 1)"/>
+            </td>
+        </tr>
+
+
+        <tr>
+            <th>
+                <label>Name</label>
+            </th>
+            <td>
+                <input type="button" id="name-ascending" value="Ascending" onclick="sortGroupWorks('name', 0)"/>
+            </td>
+            <td>
+                <input type="button" id="name-descending" value="Descending" onclick="sortGroupWorks('name', 1)"/>
+            </td>
+        </tr>
+    </table>
+
+<br>
+<br>
+
+<!-- Fitness table -->
+    <table class="group-works-table" border="1">
+        <thead>
+            <tr>
+                <th colspan="7">
+                    <h1>
+                        Group Works
+                    </h1>
+                </th>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <th>Fitness Center Name</th>
+                <th>Type</th>
+                <th>Duration</th>
+                <th>Date</th>
+                <th>Maximum Visitors</th>
+                <th>Registered Visitors</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+<script src="Scripts/jquery-3.6.0.min.js"></script>
+<script src="Scripts/script.js"></script>
+</body>
+</html>

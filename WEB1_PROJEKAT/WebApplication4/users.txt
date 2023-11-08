@@ -1,0 +1,11 @@
+768841171?username?password?name?lastname?Male?user@gmail.com?14/07/2022 12:00:00?Visitor?0?False
+1416450053?username1?password?name 2?last name 2?Male?user2@gmail.com?14/07/2022 12:00:00?Visitor?0?False
+1197158554?username3?password?name 3?last name 3?Male?user3@gmail.com?13/07/2022 12:00:00?Visitor?0?False
+1321432423?owner?password?owner name?owner last name 3?Male?owner@gmail.com?12/07/2022 00:00:00?Owner?0?False
+816290499?a?a?123?a?Male?admin@plato.com?17/08/2022 12:00:00?Visitor?0?False
+1514271993?noviTrener?123?123?123?Male?admin@plato.com?24/08/2022 12:00:00?Trainer?1082572622?False
+1193229121?user?password?user?user?Male?user@gmail.com?11/08/2022 00:00:00?Visitor?0?False
+1038403140?djordje?djordje?djordje?kojic?Male?djolekojic@gmail.com?01/08/2022 00:00:00?Visitor?0?False
+1338128466?noviTrener2?password?Aleksandar?Lekic?Male?leka@gmail.com?12/02/1970 00:00:00?Trainer?1165068381?False
+604073753?pera?pera?peraa?peric?Male?pera@gmail.com?01/08/2022 00:00:00?Visitor?0?False
+544436375?sotra?sotra?sotra?sotra?Male?sotra@gmail.co?01/09/2022 00:00:00?Trainer?891834282?False

@@ -1,0 +1,36 @@
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\bin\Debug\Services.dll
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\bin\Debug\Services.pdb
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\bin\Debug\Common.dll
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\bin\Debug\Common.pdb
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\obj\Debug\Core.csproj.CopyComplete
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\obj\Debug\Services.dll
+D:\Coek\FTN\6. Semestar\Veb programiranje\Najnoviji projekat\Services\obj\Debug\Services.pdb
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\bin\Debug\Services.dll
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\bin\Debug\Services.pdb
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\bin\Debug\Common.dll
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\bin\Debug\Common.pdb
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\obj\Debug\Services.dll
+C:\Users\Nikola\Desktop\Najnoviji projekat\Services\obj\Debug\Services.pdb
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Services.dll
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Services.pdb
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Common.dll
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Common.pdb
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Core.csproj.CopyComplete
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Services.dll
+C:\Users\38162\Desktop\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Services.pdb
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Services.dll
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Services.pdb
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Common.dll
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\bin\Debug\Common.pdb
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Core.csproj.CopyComplete
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Services.dll
+C:\Users\38162\Desktop\HTML&CSS\Najnoviji projekat\Najnoviji projekat\Services\obj\Debug\Services.pdb
